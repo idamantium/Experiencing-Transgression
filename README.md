@@ -21,3 +21,14 @@ If you're working on something already, interrigate the experience of it based o
 
 If you don't have a code poetry baby you're nurturing yet, pick something to infiltrate and design an experience for it. You're encouraged to focus on the experience of inflitration as the transforamtive potential.
 
+##Suggested Reading
+See 'Readings' folder.
+
+Hickey, Dave. "Romancing the Looky-Loos." In Air Guitar: Essays on Art and Democracy. Art Issues Press, August 7, 2012. 
+
+Lauro, S. J., and K. Embry. "A Zombie Manifesto: The Nonhuman Condition in the Era of Advanced Capitalism." boundary 2 35, no. 1, 2008. 
+
+Evans, Kevin, Carrie Galbraith, John Law, Chuck Palahniuk, Charlie Todd, Stuart Mangrum, and Inc Last Gasp. Tales of the San Francisco Cacophony Society. San Francisco, Calif.: Last Gasp of San Francisco, 2013. 
+
+
+
