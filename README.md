@@ -23,11 +23,11 @@ If you don't have a code poetry baby you're nurturing yet, pick something to inf
 
 ##Suggested Reading
 
-Hickey, Dave. ["Romancing the Looky-Loos."](Experiencing-Transgression/Readings/Romancing the Looky-Loos.pdf) In Air Guitar: Essays on Art and Democracy. Art Issues Press, August 7, 2012. 
+Hickey, Dave. ["Romancing the Looky-Loos."](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/Romancing%20the%20Looky-Loos.pdf) In Air Guitar: Essays on Art and Democracy. Art Issues Press, August 7, 2012. 
 
-Evans, Kevin, Carrie Galbraith, John Law, Chuck Palahniuk, Charlie Todd, Stuart Mangrum, and Inc Last Gasp. ["Cacophony Princiapls."](Experiencing-Transgression/Readings/CacophonyPrincipals.pdf) In Tales of the San Francisco Cacophony Society. San Francisco, Calif.: Last Gasp of San Francisco, 2013. 
+Evans, Kevin, Carrie Galbraith, John Law, Chuck Palahniuk, Charlie Todd, Stuart Mangrum, and Inc Last Gasp. ["Cacophony Princiapls."](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/CacophonyPrincipals.pdf) In Tales of the San Francisco Cacophony Society. San Francisco, Calif.: Last Gasp of San Francisco, 2013. 
 
-Lauro, S. J., and K. Embry. ["A Zombie Manifesto: The Nonhuman Condition in the Era of Advanced Capitalism."](Experiencing-Transgression/Readings/A Zombie Manifesto The Nonhum.pdf) boundary 2 35, no. 1, 2008. 
+Lauro, S. J., and K. Embry. ["A Zombie Manifesto: The Nonhuman Condition in the Era of Advanced Capitalism."](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/A%20Zombie%20Manifesto%20The%20Nonhum.pdf) boundary 2 35, no. 1, 2008. 
 
 
 
