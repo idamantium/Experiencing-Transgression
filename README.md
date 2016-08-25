@@ -38,6 +38,12 @@ Haraway, Donna. ["A Cyborg Manifesto: Science, Technology, and Socialist-feminis
 
 McIntosh, Peggy. ["White Privilege: Unpacking the Invisible Knapsack,"](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/PartI_CreatingAwareness_WhitePrivilegeUnpackingtheInvisibleKnapsack.pdf) 1988.
 
-Greenlee, Sam. ["The Spook Who Sat by the Door,"](https://en.wikipedia.org/wiki/The_Spook_Who_Sat_by_the_Door_(novel)) 1969.   
+Yosso*, Tara J. "Whose Culture Has Capital? A Critical Race Theory Discussion of Community Cultural Wealth." Race ethnicity and education 8, no. 1 (2005): 69-91.
+
+Greenlee, Sam. The Spook Who Sat by the Door. 1969.   
+
+hooks, bell. Teaching to Transgress : Education As the Practice of Freedom. 1994.  
+
+Sennett, Richard. Together: the Rituals, Pleasures, and Politics of Cooperation. New Haven, CT: Yale University Press, 2012.
 
 
