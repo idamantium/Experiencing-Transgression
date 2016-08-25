@@ -8,11 +8,12 @@ How can the feeling of infiltration, be it through bodily trespassing, mediated 
 
 Designing for Experience
 - Erving Goffman's System
-- Handy Things from Game Design
 
 Getting in & Getting Away With It
 - Cacophony Society Principals
 - Passing and Identity
+
+[Class presentation (pdf)](https://github.com/idamantium/Experiencing-Transgression/blob/master/SFPC-ExperiencingTransgression(Presentation).pdf)
 
 
 ## Day 2 (7pm - 9pm, preceded by office hours at 6)
@@ -31,12 +32,12 @@ Lauro, S. J., and K. Embry. ["A Zombie Manifesto: The Nonhuman Condition in the 
 
 ###Additional Reading
 
-Goffman, Erving. "Discrepant Roles," in The Presentation of Self in Everyday Life. New York: Anchor Books, 1956.   
+Goffman, Erving. ["Discrepant Roles,"](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/Goffman_Erving_The_Presentation_of_Self_in_Everyday_Life(DiscrepantRoles).pdf) in The Presentation of Self in Everyday Life. New York: Anchor Books, 1956.   
 
-Haraway, Donna. "A Cyborg Manifesto: Science, Technology, and Socialist-feminism in the Late 20th Century," 1991.
+Haraway, Donna. ["A Cyborg Manifesto: Science, Technology, and Socialist-feminism in the Late 20th Century,"](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/Haraway-CyborgManifesto.pdf) 1991.
 
-McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack," 1988.
+McIntosh, Peggy. ["White Privilege: Unpacking the Invisible Knapsack,"](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/PartI_CreatingAwareness_WhitePrivilegeUnpackingtheInvisibleKnapsack.pdf) 1988.
 
-Greenlee, Sam. "The Spook Who Sat by the Door. 1969." Detroit: Wayne State UP (1990).   
+Greenlee, Sam. ["The Spook Who Sat by the Door,"](https://en.wikipedia.org/wiki/The_Spook_Who_Sat_by_the_Door_(novel)) 1969.   
 
 
