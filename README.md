@@ -29,6 +29,14 @@ Evans, Kevin, Carrie Galbraith, John Law, Chuck Palahniuk, Charlie Todd, Stuart 
 
 Lauro, S. J., and K. Embry. ["A Zombie Manifesto: The Nonhuman Condition in the Era of Advanced Capitalism."](https://github.com/idamantium/Experiencing-Transgression/blob/master/Readings/A%20Zombie%20Manifesto%20The%20Nonhum.pdf) boundary 2 35, no. 1, 2008. 
 
+###Additional Reading
 
+Goffman, Erving. "Discrepant Roles," in The Presentation of Self in Everyday Life. New York: Anchor Books, 1956.   
+
+Haraway, Donna. "A Cyborg Manifesto: Science, Technology, and Socialist-feminism in the Late 20th Century," 1991.
+
+McIntosh, Peggy. "White Privilege: Unpacking the Invisible Knapsack," 1988.
+
+Greenlee, Sam. "The Spook Who Sat by the Door. 1969." Detroit: Wayne State UP (1990).   
 
 
